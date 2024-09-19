@@ -25,4 +25,4 @@ This project performs an end-to-end analysis of AirBNB listings data to extract 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/airbnb-project.git
+   git clone https://github.com/ankurkrr/airbnb-project.git
